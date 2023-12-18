@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wise-guy/static/css/main.f1c38acd.css",
+    "main.js": "/wise-guy/static/js/main.1acc9ffd.js",
+    "static/media/day.jpg": "/wise-guy/static/media/day.06f5e8a14e316175c53c.jpg",
+    "static/media/night.jpg": "/wise-guy/static/media/night.de145b1b62b6b6b07fb5.jpg",
+    "index.html": "/wise-guy/index.html",
+    "main.f1c38acd.css.map": "/wise-guy/static/css/main.f1c38acd.css.map",
+    "main.1acc9ffd.js.map": "/wise-guy/static/js/main.1acc9ffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c38acd.css",
+    "static/js/main.1acc9ffd.js"
+  ]
+}
